@@ -19,3 +19,7 @@ The projects in this repository are a combination of personal projects I have do
 
 
 ## Table of Contents
+  About Me
+  About The Projects
+  Portfolio Projects by Topic
+  Portfolio Projects by Language

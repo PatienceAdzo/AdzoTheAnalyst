@@ -25,7 +25,7 @@ The projects in this repository are a combination of personal projects I have do
     - [Bike Sales Data Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Bike%20Store%20Sales%20Data%20Analysis.ipynb)
 - [Portflio Projects]()
 
-## Data Analysis Preliminaries
+## Self-Learning
 
 In this section, I have collated some self-learning projects which show some skills I practice and new techniques I learn for analysing data.
 

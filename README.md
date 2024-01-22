@@ -20,7 +20,7 @@ The projects in this repository are a combination of personal projects I have do
 ## Table of Contents
 - [About Me](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#about-me)
 - [About The Projects](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#about-the-projects)
-- [Portfolio Projects]()
+- [Portfolio Projects](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects)
   - Python
     - [Bike Sales Data Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Bike%20Store%20Sales%20Data%20Analysis.ipynb)
 

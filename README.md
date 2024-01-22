@@ -17,9 +17,12 @@ In my free time, I enjoy exploring new data analysis tools and techniques, get u
 
 The projects in this repository are a combination of personal projects I have done to advance my knowledge and improve my skills, and projects which have been done as part of my masters studies.
 
-
 ## Table of Contents
-  About Me
-  About The Projects
-  Portfolio Projects by Topic
-  Portfolio Projects by Language
+- [About Me](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#about-me)
+- [About The Projects](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#about-the-projects)
+- [Portfolio Projects]()
+  - Python
+    - [Bike Sales Data Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Bike%20Store%20Sales%20Data%20Analysis.ipynb)
+
+## Portfolio Projects
+   

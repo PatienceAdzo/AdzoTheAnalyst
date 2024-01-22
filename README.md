@@ -35,6 +35,8 @@ In this section I list the data analytics projects, briefly describing the techn
 ### Analysis of Bike Sales Data
 **Code:** [`Bike Store Sales Data Analysis.ipynb`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Bike%20Store%20Sales%20Data%20Analysis.ipynb)
 
+**Data:** [`Excel Bike Sales Project Dataset.xlsx`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md)
+
 **Goal:** To get hands-on experience for analysing data in Python.
 
 **Description:** This project contains various sections where bike sales data is analysed using various techniques. There wass no particular objective for this project. It was done to get some practice in analysing data.

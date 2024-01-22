@@ -20,17 +20,31 @@ The projects in this repository are a combination of personal projects I have do
 ## Table of Contents
 - [About Me](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#about-me)
 - [About The Projects](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#about-the-projects)
-- [Portfolio Projects by Programming Language](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects by Programming Language](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-programming-language)
   - Python
-    - [Analysis of Bike Sales Data](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Bike%20Store%20Sales%20Data%20Analysis.ipynb)
-- [Portfolio Projects by Topic]()
+    - [Analysis of Bike Sales Data]()
+- [Portfolio Projects by Topic](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-topic)
   - [Multivariate Statistical Analysis in R]()
-  - [Linear Optimization]()
-  - [Prediction and Time Series Analysis]()
+  - [Linear Optimization in Julia]()
+  - [Prediction and Time Series Analysis in R]()
 
 ## Portfolio Projects by Programming Language
 
 In this section I list the data analytics projects, briefly describing the technology stack used to solve the cases.
+
+### Analysis of Bike Sales Data
+**Code:** [`Bike Store Sales Data Analysis.ipynb`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Bike%20Store%20Sales%20Data%20Analysis.ipynb)
+
+**Goal:** To get hands-on experience for analysing data in Python.
+
+**Description:** This project contains various sections where bike sales data is analysed using various techniques. There wass no particular objective for this project. It was done to get some practice in analysing data.
+
+**Skills:** Numerical Analysis, Data wrangling, Categorical analysis, Data visualization, Selection and sorting, Data analysis
+
+**Language:** Python
+
+**Libraries:** Pandas, Matplotlib, Numpy
+
 
 ## Portfolio Projects by Topic
 

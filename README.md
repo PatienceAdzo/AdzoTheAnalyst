@@ -6,7 +6,7 @@
 Hi, I am Patience! This is a repository I have created to showcase skills, share projects and track my progress in Data Analytics/Data Science related topics.
 However, before I delve into the contents of this portfolio, I would like to introduce myself and my inspiration to begin my journey in this field.
 
-I have an analytical background in Actuarial Science and currently, I am on track to completing my masters degree in Applied Mathematics with a minor in Analytics and Data Science. I have developed a strong foundation in the analysis and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data analyst.
+I have an analytical background in Actuarial Science and currently, I am on track to completing my masters degree in Applied Mathematics with a minor in Analytics and Data Science. I have developed a strong foundation in data analysis and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data analyst.
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data analyst.
 

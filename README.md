@@ -20,10 +20,14 @@ The projects in this repository are a combination of personal projects I have do
 ## Table of Contents
 - [About Me](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#about-me)
 - [About The Projects](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#about-the-projects)
-- [Self-Learning](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects)
+- [Self-Learning Projects](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects)
   - Python
-    - [Bike Sales Data Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Bike%20Store%20Sales%20Data%20Analysis.ipynb)
+    - [Analysis of Bike Sales Data](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Bike%20Store%20Sales%20Data%20Analysis.ipynb)
 - [Portflio Projects]()
+- [Masters Studies]()
+  - [Multivariate Statistical Analysis in R]()
+  - [Linear Optimization]()
+  - [Prediction and Time Series Analysis]()
 
 ## Self-Learning
 
@@ -32,4 +36,6 @@ In this section, I have collated some self-learning projects which show some ski
 ## Portfolio Projects
 
 In this section I list the data analytics projects, briefly describing the technology stack used to solve the cases.
+
+## Masters Studies
 

@@ -27,10 +27,12 @@ The projects in this repository are a combination of personal projects I have do
   - Microsoft Excel
 - [Topics in Data Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-topic)
   - [Multivariate Statistical Analysis in R]()
-    - [Creating Functions]()
-    - [Principal Component Analysis(PCA)]()
+    - [Principal Component Analysis(PCA) of Forty-Eight Decathletes](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-1-rmd_file.pdf)
+    - [Principal Component Analysis(PCA) of Simulated Data]()
   - [Linear Optimization in Julia]()
   - [Prediction and Time Series Analysis in R]()
+- [Scala Programming]()
+  - [Flappy Bug Game]()
 
 ## Data Analysis Portfolio Projects
 

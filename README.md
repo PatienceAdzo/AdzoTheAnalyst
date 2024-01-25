@@ -22,7 +22,7 @@ The projects in this repository are a combination of personal projects I have do
 - [About The Projects](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#about-the-projects)
 - [Data Analysis Portfolio Projects](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-programming-language)
   - Python
-    - [Analysis of Bike Sales Data]()
+    - [Analysis of Bike Store Sales Data](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main?tab=readme-ov-file#analysis-of-bike-sales-data)
   - SQL
   - Microsoft Excel
 - [Topics in Data Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-topic)
@@ -43,7 +43,7 @@ In this section I list the data analytics projects, briefly describing the techn
 
 **Goal:** To get hands-on experience for analysing data in Python.
 
-**Description:** This project contains various sections where bike sales data is analysed using various techniques. There wass no particular objective for this project. It was done to get some practice in analysing data.
+**Description:** This project contains various sections where bike sales data is analysed using various techniques. The objective was to get some practice in analysing data.
 
 **Skills:** Numerical Analysis, Data wrangling, Categorical analysis, Data visualization, Selection and sorting, Data analysis
 
@@ -52,7 +52,7 @@ In this section I list the data analytics projects, briefly describing the techn
 **Libraries:** Pandas, Matplotlib, Numpy
 
 
-## Portfolio Projects by Topic
+## Topics in Data Analysis
 
 
 

@@ -4,7 +4,7 @@
 ## About Me
 
 Hi, I am Patience! This is a repository that I created to showcase my skills, share projects, and track my progress in Data Analytics/Data Science-related topics.
-However, before delving into the contents of this portfolio, I'd like to introduce myself and explain why I decided to pursue a career in this field.
+However, before delving into the contents of this portfolio, I would like to introduce myself and explain why I decided to pursue a career in this field.
 
 I have an analytical background in Actuarial Science, and I am currently pursuing a master's degree in Applied Mathematics with a minor in Analytics and Data Science. I have a solid understanding of data analysis and a strong desire to use data to uncover meaningful insights. As an entry-level data analyst, I am excited to apply my technical and analytical skills in the field of data science.
 
@@ -15,20 +15,24 @@ In my free time, I enjoy exploring new data analysis tools and techniques, updat
 
 ## About The Projects
 
-The projects in this repository are a combination of personal projects I have done to advance my knowledge and improve my skills with various programming languages, and projects which are based on specific topics related to different techniques used in analysing data.
+The projects in this repository are a combination of personal projects I have done to advance my knowledge and improve my skills with various programming languages, and projects on specific topics which are the conerstone of many data analysis applications. I have done some of these projects as part of my masters studies at Aalto University.
 
 ## Table of Contents
 - [About Me](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#about-me)
 - [About The Projects](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#about-the-projects)
-- [Portfolio Projects by Programming Language](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-programming-language)
+- [Data Analysis Portfolio Projects](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-programming-language)
   - Python
     - [Analysis of Bike Sales Data]()
-- [Portfolio Projects by Topic](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-topic)
+  - SQL
+  - Microsoft Excel
+- [Topics in Data Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-topic)
   - [Multivariate Statistical Analysis in R]()
+    - [Creating Functions]()
+    - [Principal Component Analysis(PCA)]()
   - [Linear Optimization in Julia]()
   - [Prediction and Time Series Analysis in R]()
 
-## Portfolio Projects by Programming Language
+## Data Analysis Portfolio Projects
 
 In this section I list the data analytics projects, briefly describing the technology stack used to solve the cases.
 

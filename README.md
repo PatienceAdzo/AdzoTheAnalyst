@@ -20,12 +20,6 @@ The projects in this repository are a combination of personal projects I have do
 ## Table of Contents
 - [About Me](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#about-me)
 - [About The Projects](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#about-the-projects)
-- [Data Analysis -----]()
-  - [Data Cleaning and Transformation]()
-  - [Data Analysis]()
-  - [Data Visualization]()
-  - [Data Engineering/Data Science]()
-  - [Communication]()
 - [Data Analysis ----- ](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-programming-language)
   - Python
     - [Analysis of Bike Store Sales Data](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main?tab=readme-ov-file#analysis-of-bike-sales-data)
@@ -34,11 +28,13 @@ The projects in this repository are a combination of personal projects I have do
   - Microsoft Excel/Google Sheets
   - Tableau
   - Microsoft PowerBI
+    - [Gender Diversity in 21 Technology Companies](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Project%20Report.pptx)
 - [Topics in Data Science/Analytics](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-topic)
   - [Multivariate Statistical Data Analysis in R]()
     - [Principal Component Analysis(PCA) of Forty-Eight Decathletes](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-1-rmd_file.pdf)
     - [Principal Component Analysis(PCA) of Simulated Data](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-2-rmd_file.pdf)
   - [Prediction and Time Series Analysis in R]()
+  - [Linear Optimization in Julia]()
   
 
 ## Data Analysis -----

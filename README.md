@@ -20,21 +20,28 @@ The projects in this repository are a combination of personal projects I have do
 ## Table of Contents
 - [About Me](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#about-me)
 - [About The Projects](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#about-the-projects)
-- [Data Analysis Portfolio Projects](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-programming-language)
+- [Data Analysis -----]()
+  - [Data Cleaning and Transformation]()
+  - [Data Analysis]()
+  - [Data Visualization]()
+  - [Data Engineering/Data Science]()
+  - [Communication]()
+- [Data Analysis ----- ](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-programming-language)
   - Python
     - [Analysis of Bike Store Sales Data](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main?tab=readme-ov-file#analysis-of-bike-sales-data)
   - SQL
-  - Microsoft Excel
-- [Topics in Data Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-topic)
-  - [Multivariate Statistical Analysis in R]()
+  - R
+  - Microsoft Excel/Google Sheets
+  - Tableau
+  - Microsoft PowerBI
+- [Topics in Data Science/Analytics](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-topic)
+  - [Multivariate Statistical Data Analysis in R]()
     - [Principal Component Analysis(PCA) of Forty-Eight Decathletes](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-1-rmd_file.pdf)
-    - [Principal Component Analysis(PCA) of Simulated Data]()
-  - [Linear Optimization in Julia]()
+    - [Principal Component Analysis(PCA) of Simulated Data](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-2-rmd_file.pdf)
   - [Prediction and Time Series Analysis in R]()
-- [Scala Programming]()
-  - [Flappy Bug Game]()
+  
 
-## Data Analysis Portfolio Projects
+## Data Analysis -----
 
 In this section I list the data analytics projects, briefly describing the technology stack used to solve the cases.
 
@@ -43,9 +50,9 @@ In this section I list the data analytics projects, briefly describing the techn
 
 **Data:** [`Excel Bike Sales Project Dataset.xlsx`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Excel%20Bike%20Sales%20Project%20Dataset.xlsx)
 
-**Goal:** To get hands-on experience for analysing data in Python.
+**Goal:** To analyse sales data.
 
-**Description:** This project contains various sections where bike sales data is analysed using various techniques. The objective was to get some practice in analysing data.
+**Description:** This project contains various sections where bike sales data is analysed using various techniques. 
 
 **Skills:** Numerical Analysis, Data wrangling, Categorical analysis, Data visualization, Selection and sorting, Data analysis
 

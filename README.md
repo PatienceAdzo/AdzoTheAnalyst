@@ -74,7 +74,7 @@ In this section I list the data analytics projects, briefly describing the techn
 
 
 ### Google Stock Market Analysis
-**Code:** [`Google Stock Market Analysis.ipynb`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Google%20Stock%20Market%20Analysis.ipynb)
+**Code:** [`Google Stock Market Analysis.html`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Google%20Stock%20Market%20Analysis.html)
 
 **Dataset:** The stock price data of Google was downloaded using the Yahoo Finance API.
 
@@ -105,7 +105,16 @@ In this section I list the data analytics projects, briefly describing the techn
 
 # Topics in Data Science/Analytics
 
+## Machine Learning in Python
+
+#### Stress Detection Model
+#### Apple Stock Price Prediction
+ 
+      
 ## Multivariate Statistical Data Analysis in R
+
+### Principal Component Analysis(PCA)
+Principal Component Analysis (PCA) is a dimensionality reduction technique commonly used in multivariate statistical analysis. Its primary purpose is to transform a set of correlated variables into a new set of uncorrelated variables, known as principal components. These principal components capture the most significant variance in the data. The projects below showcase some applications of PCA in various contexts.
 
 #### Covariance Matrix Based Principal Component Analysis(PCA) of Decathletes
 **Code:** [`Covariance Matrix Based Principal Component Analysis(PCA).pdf`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-1-rmd_file.pdf)
@@ -121,9 +130,9 @@ In this section I list the data analytics projects, briefly describing the techn
 **Code:** [`Principal Component Analysis(PCA).pdf`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-2-rmd_file.pdf)
 
 
-## Prediction and Time Series Analysis in R
 
-## Linear Optimization in Julia
+## Prediction and Time Series Analysis in R
+#### Weather Forecasting
 
 
 

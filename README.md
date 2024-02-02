@@ -23,8 +23,7 @@ The projects in this repository are a combination of personal projects I have do
 - [Data Analysis Portfolio Projects](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-programming-language)
   - Python
     - [Movie Industry Performance Correlation Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst#movie-industry-performance-correlation-analysis)
-    - [Ukraine vs. Russia Twitter Sentiment Analysis]()
-    - [Stock Market Analysis]()
+    - [Google Stock Market Analysis]()
     - [Analysis of Bike Store Sales](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main?tab=readme-ov-file#analysis-of-bike-sales-data)
   - SQL
   - R
@@ -33,22 +32,21 @@ The projects in this repository are a combination of personal projects I have do
   - Microsoft PowerBI
     
 - [Topics in Data Science/Analytics](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-topic)
+  
   - [Machine Learning in Python]()
     - [Stress Detection Model]()
     - [Apple Stock Price Prediction]()
+   
+      
   - [Multivariate Statistical Data Analysis in R](https://github.com/PatienceAdzo/AdzoTheAnalyst#multivariate-statistical-data-analysis-in-r)
     - [Covariance Matrix Based Principal Component Analysis(PCA) of Decathletes](https://github.com/PatienceAdzo/AdzoTheAnalyst#covariance-matrix-based-principal-component-analysispca-of-decathletes)
     - [Correlation Matrix Based Principal Component Analysis(PCA) of Decathletes](https://github.com/PatienceAdzo/AdzoTheAnalyst#correlation-matrix-based-principal-component-analysispca-of-decathletes)
     - [Principal Component Analysis(PCA) of Simulated Data](https://github.com/PatienceAdzo/AdzoTheAnalyst#principal-component-analysispca-of-simulated-data)
-    
-      
+
+
   - [Prediction and Time Series Analysis in R]()
     - [Linear Regression Modelling]()
     - [Weather Forecasting]()
-      
-  - [Linear Optimization in Julia]()
-    - [Resource Allocation Problem]() 
-    - [Production Planning/Lot-Sizing Problem]()
 
 - [Education]()
 - [Resume]()
@@ -69,11 +67,25 @@ In this section I list the data analytics projects, briefly describing the techn
 
 **Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between movie features and gross earnings, and implemented Pearson’s correlation statistical analysis.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** data cleaning, data analysis, correlation matrices, data visualization
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology stack:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+**Results:** The analysis revealed that votes and budget have the highest correlation with gross earnings of movies. The ideal runtime of the movies was between 160 and 190 minutes. Also, the action and animation genres of movies produced tended to be more successful than other genres. 
+
+
+### Google Stock Market Analysis
+**Code:** [`Google Stock Market Analysis.ipynb`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Google%20Stock%20Market%20Analysis.ipynb)
+
+**Dataset:** The stock price data of Google was downloaded using the Yahoo Finance API.
+
+**Goal:** To analyze the stock market interactively using the Python programming language.
+
+**Description:** Stock Market Analysis refers to analyzing the current and historical trends in the stock market to make future buying and selling decisions. The analysis done in this notebook serves this purpose using valuable visualization tools such as candlestick charts, line charts, bar plots and rangesliders.
+
+**Skills:** stock price data analysis, trend analysis, data visualization, interactive plots
+
+**Technology stack:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, yfinance, plotly, datetime
 
 
 ### Analysis of Bike Store Sales
@@ -87,9 +99,7 @@ In this section I list the data analytics projects, briefly describing the techn
 
 **Skills:** Numerical Analysis, Data wrangling, Categorical analysis, Data visualization, Selection and sorting, Data analysis
 
-**Language:** Python
-
-**Libraries:** Pandas, Matplotlib, Numpy
+**Technology stack:** Python, Pandas, Numpy, Matplotlib
 
 
 
@@ -101,12 +111,12 @@ In this section I list the data analytics projects, briefly describing the techn
 #### Covariance Matrix Based Principal Component Analysis(PCA) of Decathletes
 **Code:** [`Covariance Matrix Based Principal Component Analysis(PCA).pdf`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-1-rmd_file.pdf)
 
-**Dataset:** [`Decatheletes.txt`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Excel%20Bike%20Sales%20Project%20Dataset.xlsx)
+**Dataset:** [`Decatheletes.txt`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/decathlon.txt)
 
 #### Correlation Matrix Based Principal Component Analysis(PCA) of Decathletes
 **Code:** [`Correlation Matrix Based Principal Component Analysis(PCA).pdf`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-3-rmd_file.pdf)
 
-**Dataset:** [`Decatheletes.txt`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Excel%20Bike%20Sales%20Project%20Dataset.xlsx)
+**Dataset:** [`Decatheletes.txt`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/decathlon.txt)
 
 #### Principal Component Analysis(PCA) of Simulated Data
 **Code:** [`Principal Component Analysis(PCA).pdf`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-2-rmd_file.pdf)

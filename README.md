@@ -37,9 +37,9 @@ The projects in this repository are a combination of personal projects I have do
     - [Stress Detection Model]()
     - [Apple Stock Price Prediction]()
   - [Multivariate Statistical Data Analysis in R](https://github.com/PatienceAdzo/AdzoTheAnalyst#multivariate-statistical-data-analysis-in-r)
-    - [Covariance Matrix Based Principal Component Analysis(PCA) of Decathletes](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-1-rmd_file.pdf)
-    - [Correlation Matrix Based Principal Component Analysis(PCA) of Decathletes](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-3-rmd_file.pdf)
-    - [Principal Component Analysis(PCA) of Simulated Data](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-2-rmd_file.pdf)
+    - [Covariance Matrix Based Principal Component Analysis(PCA) of Decathletes](https://github.com/PatienceAdzo/AdzoTheAnalyst#covariance-matrix-based-principal-component-analysispca-of-decathletes)
+    - [Correlation Matrix Based Principal Component Analysis(PCA) of Decathletes](https://github.com/PatienceAdzo/AdzoTheAnalyst#correlation-matrix-based-principal-component-analysispca-of-decathletes)
+    - [Principal Component Analysis(PCA) of Simulated Data](https://github.com/PatienceAdzo/AdzoTheAnalyst#principal-component-analysispca-of-simulated-data)
     
       
   - [Prediction and Time Series Analysis in R]()
@@ -56,14 +56,14 @@ The projects in this repository are a combination of personal projects I have do
 
 
 
-## Data Analysis Portfolio Projects
+# Data Analysis Portfolio Projects
 
 In this section I list the data analytics projects, briefly describing the technology stack used to solve the cases.
 
 ### Movie Industry Performance Correlation Analysis
 **Code:** [`Movie Industry Performance Correlation Analysis.ipynb`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Movie%20Industry%20Performance%20Correlation%20Analysis.ipynb)
 
-**Dataset:** [`movies.cvs`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/movies.csv)
+**Dataset:** [`movies.csv`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/movies.csv)
 
 **Goal:** To determine what factors contribute the most to a movie's success.
 
@@ -94,9 +94,9 @@ In this section I list the data analytics projects, briefly describing the techn
 
 
 
-## Topics in Data Science/Analytics
+# Topics in Data Science/Analytics
 
-### Multivariate Statistical Data Analysis in R
+## Multivariate Statistical Data Analysis in R
 
 #### Covariance Matrix Based Principal Component Analysis(PCA) of Decathletes
 **Code:** [`Covariance Matrix Based Principal Component Analysis(PCA).pdf`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-1-rmd_file.pdf)
@@ -112,9 +112,9 @@ In this section I list the data analytics projects, briefly describing the techn
 **Code:** [`Principal Component Analysis(PCA).pdf`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-2-rmd_file.pdf)
 
 
-### Prediction and Time Series Analysis in R
+## Prediction and Time Series Analysis in R
 
-### Linear Optimization in Julia
+## Linear Optimization in Julia
 
 
 

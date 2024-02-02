@@ -22,7 +22,7 @@ The projects in this repository are a combination of personal projects I have do
 - [About The Projects](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#about-the-projects)
 - [Data Analysis Portfolio Projects](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-programming-language)
   - Python
-    - [Analysis of Factors Contributing to a Movie's Success]()
+    - [Movie Industry Performance Correlation Analysis]()
     - [Ukraine vs. Russia Twitter Sentiment Analysis]()
     - [Stock Market Analysis]()
     - [Analysis of Bike Store Sales](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main?tab=readme-ov-file#analysis-of-bike-sales-data)
@@ -60,6 +60,21 @@ The projects in this repository are a combination of personal projects I have do
 
 In this section I list the data analytics projects, briefly describing the technology stack used to solve the cases.
 
+### Movie Industry Performance Correlation Analysis
+**Code:** [``]()
+
+**Dataset:** [``]()
+
+**Goal:** To determine what factors contribute the most to a movie's success.
+
+**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between movie features and gross earnings, and implemented Pearson’s correlation statistical analysis.
+
+**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
+**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+
 
 ### Analysis of Bike Store Sales
 **Code:** [`Bike Store Sales Data Analysis.ipynb`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Bike%20Store%20Sales%20Data%20Analysis.ipynb)
@@ -68,7 +83,7 @@ In this section I list the data analytics projects, briefly describing the techn
 
 **Goal:** To examine the sales history of a bike store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
-**Description:** The dataset contains a list of sales records. The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing and analyzing sales data.
+**Description:** The dataset contains a list of sales records. The records include the products for sale and order information. The project includes the following steps: data loading, data cleaning and preprocessing and analyzing sales data.
 
 **Skills:** Numerical Analysis, Data wrangling, Categorical analysis, Data visualization, Selection and sorting, Data analysis
 
@@ -76,21 +91,6 @@ In this section I list the data analytics projects, briefly describing the techn
 
 **Libraries:** Pandas, Matplotlib, Numpy
 
-
-### Analysis of Factors Contributing to a Movie's Success
-**Code:** [``]()
-
-**Dataset:** [``]()
-
-**Goal:** To determine what factors contribute the most to a movie's success.
-
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
-
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
-
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
-
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
 
 
 

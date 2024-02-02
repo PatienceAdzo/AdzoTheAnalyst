@@ -57,7 +57,7 @@ The projects in this repository are a combination of personal projects I have do
 
 In this section I list the data analytics projects, briefly describing the technology stack used to solve the cases.
 
-### Movie Industry Performance Correlation Analysis
+## Movie Industry Performance Correlation Analysis
 **Code:** [`Movie Industry Performance Correlation Analysis.ipynb`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Movie%20Industry%20Performance%20Correlation%20Analysis.ipynb)
 
 **Dataset:** [`movies.csv`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/movies.csv)
@@ -73,7 +73,7 @@ In this section I list the data analytics projects, briefly describing the techn
 **Results:** The analysis revealed that votes and budget have the highest correlation with gross earnings of movies. The ideal runtime of the movies was between 160 and 190 minutes. Also, the action and animation genres of movies produced tended to be more successful than other genres. 
 
 
-### Google Stock Market Analysis
+## Google Stock Market Analysis
 **Code:** [`Google Stock Market Analysis.html`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Google%20Stock%20Market%20Analysis.html)
 
 **Dataset:** The stock price data of Google was downloaded using the Yahoo Finance API.
@@ -87,7 +87,7 @@ In this section I list the data analytics projects, briefly describing the techn
 **Technology stack:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, yfinance, plotly, datetime
 
 
-### Analysis of Bike Store Sales
+## Analysis of Bike Store Sales
 **Code:** [`Bike Store Sales Data Analysis.ipynb`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Bike%20Store%20Sales%20Data%20Analysis.ipynb)
 
 **Dataset:** [`Excel Bike Sales Project Dataset.xlsx`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Excel%20Bike%20Sales%20Project%20Dataset.xlsx)
@@ -107,8 +107,8 @@ In this section I list the data analytics projects, briefly describing the techn
 
 ## Machine Learning in Python
 
-#### Stress Detection Model
-#### Apple Stock Price Prediction
+### Stress Detection Model
+### Apple Stock Price Prediction
  
       
 ## Multivariate Statistical Data Analysis in R
@@ -132,7 +132,7 @@ Principal Component Analysis (PCA) is a dimensionality reduction technique commo
 
 
 ## Prediction and Time Series Analysis in R
-#### Weather Forecasting
+### Weather Forecasting
 
 
 

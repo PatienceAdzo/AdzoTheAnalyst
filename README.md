@@ -45,7 +45,6 @@ The projects in this repository are a combination of personal projects I have do
 
 
   - [Prediction and Time Series Analysis in R]()
-    - [Linear Regression Modelling]()
     - [Weather Forecasting]()
 
 - [Education]()

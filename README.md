@@ -34,7 +34,7 @@ The projects in this repository are a combination of personal projects I have do
 - [Topics in Data Science/Analytics](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-topic)
   
   - [Machine Learning in Python]()
-    - [Stress Detection Model]()
+    - [Stress Detection Model](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#stress-detection-model)
     - [Apple Stock Price Prediction]()
    
       
@@ -108,6 +108,20 @@ In this section I list the data analytics projects, briefly describing the techn
 ## Machine Learning in Python
 
 ### Stress Detection Model
+**Code:** [`Stress Detection Model.ipynb`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Stress%20Detection%20Model.ipynb)
+
+**Dataset:** [`Stress Data.csv`](https://raw.githubusercontent.com/amankharwal/Website-data/master/stress.csv)
+
+**Goal:** To build a trained model which detects whether a person is stressed.
+
+**Description:** The model is trained using data posted on 'subreddits' related to mental health. This dataset contains various mental health problems shared by people about their life. The data is first cleaned from words with no meaning or unnecessary characters. The data is then split into a training set and a testing set and finally trained using the Bernoulli Naive Bayes algorithm.
+
+**Skills:** Natural Language Processing, Data training, Data cleaning, Data visualization
+
+**Technology stack:** Python, scikit-learn, nltk, re, pandas, Numpy, Matplotlib
+
+
+
 ### Apple Stock Price Prediction
  
       

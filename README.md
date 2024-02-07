@@ -27,10 +27,9 @@ The projects in this repository are a combination of personal projects I have do
     - [Analysis of Bike Store Sales](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main?tab=readme-ov-file#analysis-of-bike-sales-data)
   - SQL
     - [Covid-19 Pandemic Data Exploration](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#covid-19-pandemic-data-exploration)
-  - R
-  - Microsoft Excel/Google Sheets
   - Tableau
-  - Microsoft PowerBI
+  - Microsoft Power BI
+    - [Data Professions Analysis]()
     
 - [Topics in Data Science/Analytics](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-topic)
   
@@ -45,7 +44,7 @@ The projects in this repository are a combination of personal projects I have do
     - [Principal Component Analysis(PCA) of Simulated Data](https://github.com/PatienceAdzo/AdzoTheAnalyst#principal-component-analysispca-of-simulated-data)
 
 
-  - [Prediction and Time Series Analysis in R]()
+  - [Prediction and Time Series Analysis in Python]()
     - [Weather Forecasting]()
 
 - [Education]()
@@ -114,6 +113,23 @@ In this section I list the data analytics projects, briefly describing the techn
 **Skills:** Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 **Technology stack:** Microsoft SQL Server Management Studio
+
+
+## Data Professions Analysis
+**Code:** [`Data Professions Breakdown.pbix`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Data%20Professions%20Breakdown.pbix)
+
+**Dataset:** [`Data Professions Survey.xlxs_`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Data_Survey.xlsx)
+
+**Goal:** To analyse data collected from employees in different data fields.
+
+**Description:** 
+
+**Skills:** Loading data, Transforming data, Column Splitting, Power BI dashboards, Data visualization, Data analysis
+
+**Technology stack:** Microsoft Power BI Desktop
+
+
+
 
 
 # Topics in Data Science/Analytics

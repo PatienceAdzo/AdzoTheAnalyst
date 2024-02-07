@@ -105,9 +105,7 @@ In this section I list the data analytics projects, briefly describing the techn
 ## Covid-19 Pandemic Data Exploration
 **Code:** [`Covid-19 Pandemic Analysis.sql`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Covid-19%20SQL%20Query.sql)
 
-**Dataset I:** [`Covid_Deaths.csv`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/CovidDeaths.csv)
-
-**Dataset II:** [`Covid_Vaccinations.csv`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/CovidVaccinations.csv)
+**Dataset:** [`Link to Covid_Data`](https://ourworldindata.org/covid-deaths)
 
 **Goal:** To analyse the impact of the Covid-19 pandemic.
 

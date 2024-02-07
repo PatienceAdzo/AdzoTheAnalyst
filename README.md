@@ -28,6 +28,7 @@ The projects in this repository are a combination of personal projects I have do
   - SQL
     - [Covid-19 Pandemic Data Exploration](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#covid-19-pandemic-data-exploration)
   - Tableau
+    - [Covid-19 Pandemic Visualization](https://public.tableau.com/app/profile/patience.anipa/viz/CoronavirusPandemicDashboard/Dashboard1)
   - Microsoft Power BI
     - [Data Professions Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#data-professions-analysis)
     

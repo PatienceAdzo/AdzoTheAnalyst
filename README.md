@@ -29,7 +29,7 @@ The projects in this repository are a combination of personal projects I have do
     - [Covid-19 Pandemic Data Exploration](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#covid-19-pandemic-data-exploration)
   - Tableau
   - Microsoft Power BI
-    - [Data Professions Analysis]()
+    - [Data Professions Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#data-professions-analysis)
     
 - [Topics in Data Science/Analytics](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-topic)
   
@@ -124,7 +124,7 @@ In this section I list the data analytics projects, briefly describing the techn
 
 **Description:** 
 
-**Skills:** Loading data, Transforming data, Column Splitting, Power BI dashboards, Data visualization, Data analysis
+**Skills:** Loading data, Transforming data, Data Cleaning, Column Splitting, Power BI dashboards, Data visualization, Data analysis
 
 **Technology stack:** Microsoft Power BI Desktop
 

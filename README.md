@@ -26,6 +26,7 @@ The projects in this repository are a combination of personal projects I have do
     - [Google Stock Market Analysis]()
     - [Analysis of Bike Store Sales](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main?tab=readme-ov-file#analysis-of-bike-sales-data)
   - SQL
+    - [Covid-19 Pandemic Data Exploration]()
   - R
   - Microsoft Excel/Google Sheets
   - Tableau
@@ -101,6 +102,20 @@ In this section I list the data analytics projects, briefly describing the techn
 **Technology stack:** Python, Pandas, Numpy, Matplotlib
 
 
+## Covid-19 Pandemic Data Exploration
+**Code:** [`Covid-19 Pandemic Analysis.sql`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Covid-19%20SQL%20Query.sql)
+
+**Dataset I:** [`Covid_Deaths.csv`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/CovidDeaths.csv)
+
+**Dataset II:** [`Covid_Vaccinations.csv`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/CovidVaccinations.csv)
+
+**Goal:** To analyse the impact of the Covid-19 pandemic.
+
+**Description:** The dataset, downloaded from 'Our World in Data' website contains records of the Coronavirus cases by country from 2020-2024. The dataset was split into deaths and vaccination records before being analyzed in the SQL server. This project includes loading the data into SQL, data cleaning and preprocessing, and EDA (Exploratory Data Analysis).
+
+**Skills:** Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+**Technology stack:** Microsoft SQL Server Management Studio
 
 
 # Topics in Data Science/Analytics

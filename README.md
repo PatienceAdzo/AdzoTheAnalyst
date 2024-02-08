@@ -23,7 +23,7 @@ The projects in this repository are a combination of personal projects I have do
 - [Data Analysis Portfolio Projects](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-programming-language)
   - Python
     - [Movie Industry Performance Correlation Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst#movie-industry-performance-correlation-analysis)
-    - [Google Stock Market Analysis]()
+    - [Google Stock Market Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main?tab=readme-ov-file#google-stock-market-analysis)
     - [Analysis of Bike Store Sales](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main?tab=readme-ov-file#analysis-of-bike-sales-data)
   - SQL
     - [Covid-19 Pandemic Data Exploration](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#covid-19-pandemic-data-exploration)
@@ -34,9 +34,9 @@ The projects in this repository are a combination of personal projects I have do
     
 - [Topics in Data Science/Analytics](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-topic)
   
-  - [Machine Learning in Python]()
+  - [Machine Learning in Python](https://github.com/PatienceAdzo/AdzoTheAnalyst#machine-learning-in-python)
     - [Stress Detection Model](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#stress-detection-model)
-    - [Apple Stock Price Prediction]()
+    - [Apple Stock Price Prediction](https://github.com/PatienceAdzo/AdzoTheAnalyst#apple-stock-price-prediction)
    
       
   - [Multivariate Statistical Data Analysis in R](https://github.com/PatienceAdzo/AdzoTheAnalyst#multivariate-statistical-data-analysis-in-r)
@@ -45,12 +45,12 @@ The projects in this repository are a combination of personal projects I have do
     - [Principal Component Analysis(PCA) of Simulated Data](https://github.com/PatienceAdzo/AdzoTheAnalyst#principal-component-analysispca-of-simulated-data)
 
 
-  - [Prediction and Time Series Analysis in Python]()
-    - [Weather Forecasting]()
+  - [Prediction and Time Series Analysis in Python](https://github.com/PatienceAdzo/AdzoTheAnalyst#prediction-and-time-series-analysis-in-r)
+    - [Weather Forecasting](https://github.com/PatienceAdzo/AdzoTheAnalyst#weather-forecasting)
 
-- [Education]()
-- [Resume]()
-- [Contact]()
+- [Education](https://github.com/PatienceAdzo/AdzoTheAnalyst#education)
+- [Resume](https://github.com/PatienceAdzo/AdzoTheAnalyst#resume)
+- [Contact](https://github.com/PatienceAdzo/AdzoTheAnalyst#contact)
 
 
 

@@ -28,7 +28,7 @@ The projects in this repository are a combination of personal projects I have do
   - SQL
     - [Covid-19 Pandemic Data Exploration](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#covid-19-pandemic-data-exploration)
   - Tableau
-    - [Covid-19 Pandemic Visualization](https://public.tableau.com/app/profile/patience.anipa/viz/CoronavirusPandemicDashboard/Dashboard1)
+    - [Link to Tableau Dashboard](https://public.tableau.com/app/profile/patience.anipa/vizzes)
   - Microsoft Power BI
     - [Data Professions Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#data-professions-analysis)
     
@@ -114,20 +114,6 @@ In this section I list the data analytics projects, briefly describing the techn
 **Skills:** Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 **Technology stack:** Microsoft SQL Server Management Studio
-
-
-## Data Professions Analysis
-**Code:** [`Data Professions Breakdown.pbix`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Data%20Professions%20Breakdown.pbix)
-
-**Dataset:** [`Data Professions Survey.xlxs_`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Data_Survey.xlsx)
-
-**Goal:** To analyse data collected from employees in different data fields.
-
-**Description:** 
-
-**Skills:** Loading data, Transforming data, Data Cleaning, Column Splitting, Power BI dashboards, Data visualization, Data analysis
-
-**Technology stack:** Microsoft Power BI Desktop
 
 
 

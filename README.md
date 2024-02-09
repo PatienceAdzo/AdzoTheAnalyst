@@ -24,7 +24,7 @@ The projects in this repository are a combination of personal projects I have do
   - Python
     - [Movie Industry Performance Correlation Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst#movie-industry-performance-correlation-analysis)
     - [Google Stock Market Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main?tab=readme-ov-file#google-stock-market-analysis)
-    - [Analysis of Bike Store Sales](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main?tab=readme-ov-file#analysis-of-bike-sales-data)
+    - [Analysis of Bike Store Sales](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main?tab=readme-ov-file#analysis-of-bike-store-sales)
   - SQL
     - [Covid-19 Pandemic Data Exploration](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#covid-19-pandemic-data-exploration)
   - Tableau

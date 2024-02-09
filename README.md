@@ -26,7 +26,7 @@ The projects in this repository are a combination of personal projects I have do
     - [Google Stock Market Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main?tab=readme-ov-file#google-stock-market-analysis)
     - [Analysis of Bike Store Sales](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main?tab=readme-ov-file#analysis-of-bike-store-sales)
   - SQL
-    - [Covid-19 Pandemic Data Exploration](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#covid-19-pandemic-data-exploration)
+    - [Covid-19 Pandemic Data Exploration](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#covid-19-pandemic-data-exploration)
   - Tableau
     - [Link to Tableau Dashboard](https://public.tableau.com/app/profile/patience.anipa/vizzes)
   - Microsoft Power BI

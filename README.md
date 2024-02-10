@@ -27,6 +27,7 @@ The projects in this repository are a combination of personal projects I have do
     - [Analysis of Bike Store Sales](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main?tab=readme-ov-file#analysis-of-bike-store-sales)
   - SQL
     - [Covid-19 Pandemic Data Exploration](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#covid-19-pandemic-data-exploration)
+    - [Nashville Housing Data Cleaning]()
   - Tableau
     - [Link to Tableau Dashboard](https://public.tableau.com/app/profile/patience.anipa/vizzes)
   - Microsoft Power BI
@@ -111,9 +112,32 @@ In this section I list the data analytics projects, briefly describing the techn
 
 **Technology stack:** Microsoft SQL Server Management Studio
 
+
+## Nashville Housing Data Cleaning
+**Code:** [`Nashville Housing Data Cleaning.sql`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Nashville%20Housing%20Data%20Cleaning.sql)
+
+**Dataset:** [`Nashville Housing Data.xlsx`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/NashvilleHousing.xlsx)
+
+**Goal:** To analyse the impact of the Covid-19 pandemic.
+
+**Description:** The dataset, downloaded from 'Our World in Data' website contains records of the Coronavirus cases by country from 2020-2024. The dataset was split into deaths and vaccination records before being analyzed in the SQL server. This project includes loading the data into SQL, data cleaning and preprocessing, and EDA (Exploratory Data Analysis).
+
+**Skills:** Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+**Technology stack:** Microsoft SQL Server Management Studio
+
+
 ## Data Professions Breakdown
 
+
+
 ## Hospital Patients Wait List Report
+
+
+
+
+
+
 
 
 # Topics in Data Science/Analytics

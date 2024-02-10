@@ -27,7 +27,7 @@ The projects in this repository are a combination of personal projects I have do
     - [Analysis of Bike Store Sales](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main?tab=readme-ov-file#analysis-of-bike-store-sales)
   - SQL
     - [Covid-19 Pandemic Data Exploration](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#covid-19-pandemic-data-exploration)
-    - [Nashville Housing Data Cleaning]()
+    - [Nashville Housing Data Cleaning](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#nashville-housing-data-cleaning)
   - Tableau
     - [Link to Tableau Dashboard](https://public.tableau.com/app/profile/patience.anipa/vizzes)
   - Microsoft Power BI

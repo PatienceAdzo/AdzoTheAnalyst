@@ -31,22 +31,18 @@ The projects in this repository are a combination of personal projects I have do
     - [Link to Tableau Dashboard](https://public.tableau.com/app/profile/patience.anipa/vizzes)
   - Microsoft Power BI
     - [Data Professions Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#data-professions-analysis)
+    - [Hospital Patients Wait List Report]()
     
 - [Topics in Data Science/Analytics](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-topic)
   
   - [Machine Learning in Python](https://github.com/PatienceAdzo/AdzoTheAnalyst#machine-learning-in-python)
     - [Stress Detection Model](https://github.com/PatienceAdzo/AdzoTheAnalyst/tree/main#stress-detection-model)
-    - [Apple Stock Price Prediction](https://github.com/PatienceAdzo/AdzoTheAnalyst#apple-stock-price-prediction)
    
       
   - [Multivariate Statistical Data Analysis in R](https://github.com/PatienceAdzo/AdzoTheAnalyst#multivariate-statistical-data-analysis-in-r)
     - [Covariance Matrix Based Principal Component Analysis(PCA) of Decathletes](https://github.com/PatienceAdzo/AdzoTheAnalyst#covariance-matrix-based-principal-component-analysispca-of-decathletes)
     - [Correlation Matrix Based Principal Component Analysis(PCA) of Decathletes](https://github.com/PatienceAdzo/AdzoTheAnalyst#correlation-matrix-based-principal-component-analysispca-of-decathletes)
     - [Principal Component Analysis(PCA) of Simulated Data](https://github.com/PatienceAdzo/AdzoTheAnalyst#principal-component-analysispca-of-simulated-data)
-
-
-  - [Prediction and Time Series Analysis in Python](https://github.com/PatienceAdzo/AdzoTheAnalyst#prediction-and-time-series-analysis-in-r)
-    - [Weather Forecasting](https://github.com/PatienceAdzo/AdzoTheAnalyst#weather-forecasting)
 
 - [Education](https://github.com/PatienceAdzo/AdzoTheAnalyst#education)
 - [Resume](https://github.com/PatienceAdzo/AdzoTheAnalyst#resume)
@@ -115,8 +111,9 @@ In this section I list the data analytics projects, briefly describing the techn
 
 **Technology stack:** Microsoft SQL Server Management Studio
 
+## Data Professions Breakdown
 
-
+## Hospital Patients Wait List Report
 
 
 # Topics in Data Science/Analytics
@@ -137,8 +134,6 @@ In this section I list the data analytics projects, briefly describing the techn
 **Technology stack:** Python, scikit-learn, nltk, re, pandas, Numpy, Matplotlib
 
 
-
-### Apple Stock Price Prediction
  
       
 ## Multivariate Statistical Data Analysis in R
@@ -158,11 +153,6 @@ Principal Component Analysis (PCA) is a dimensionality reduction technique commo
 
 #### Principal Component Analysis(PCA) of Simulated Data
 **Code:** [`Principal Component Analysis(PCA).pdf`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-2-rmd_file.pdf)
-
-
-
-## Prediction and Time Series Analysis in R
-### Weather Forecasting
 
 
 

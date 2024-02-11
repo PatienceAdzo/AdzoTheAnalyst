@@ -46,7 +46,6 @@ The projects in this repository are a combination of personal projects I have do
     - [Principal Component Analysis(PCA) of Simulated Data](https://github.com/PatienceAdzo/AdzoTheAnalyst#principal-component-analysispca-of-simulated-data)
 
 - [Education](https://github.com/PatienceAdzo/AdzoTheAnalyst#education)
-- [Resume](https://github.com/PatienceAdzo/AdzoTheAnalyst#resume)
 - [Contact](https://github.com/PatienceAdzo/AdzoTheAnalyst#contact)
 
 
@@ -213,9 +212,6 @@ August 2023 - August 2025
 KNUST, Ghana:
 Bachelor of Science - BSc, Actuarial Science,
 2018 - 2022
-
-## Resume
-My resume in [pdf]().
 
 ## Contact
 - LinkedIn : [@patienceanipa]()

@@ -8,7 +8,7 @@ However, before delving into the contents of this portfolio, I would like to int
 
 I have an analytical background in Actuarial Science, and I am currently pursuing a master's degree in Applied Mathematics with a minor in Analytics and Data Science. I have a solid understanding of data analysis and a strong desire to use data to uncover meaningful insights. As an entry-level data analyst, I am excited to apply my technical and analytical skills in the field of data science.
 
-Throughout my studies, I improved my ability to work with complex data and developed a keen eye for detecting patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be useful in my future role as a data analyst.
+Throughout my studies, I improved my ability to work with complex data and developed a keen eye for detecting patterns and trends. I also gained experience in data management, and statistical analysis, which I believe will be useful in my future role as a data analyst.
 
 In my free time, I enjoy exploring new data analysis tools and techniques, update myself on current trends in data analysis and always look for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems. 
 

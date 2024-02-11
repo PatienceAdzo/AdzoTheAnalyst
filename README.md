@@ -4,7 +4,7 @@
 ## About Me
 
 Hi, I am Patience! This is a repository that I created to showcase my skills, share projects, and track my progress in Data Analytics/Data Science-related topics.
-However, before delving into the contents of this portfolio, I would like to introduce myself and explain why I decided to pursue a career in this field.
+However, before delving into the contents of this portfolio, I would like to introduce myself..
 
 I have an analytical background in Actuarial Science, and I am currently pursuing a master's degree in Applied Mathematics with a minor in Analytics and Data Science. I have a solid understanding of data analysis and a strong desire to use data to uncover meaningful insights. As an entry-level data analyst, I am excited to apply my technical and analytical skills in the field of data science.
 
@@ -31,8 +31,8 @@ The projects in this repository are a combination of personal projects I have do
   - Tableau
     - [Link to Tableau Dashboard](https://public.tableau.com/app/profile/patience.anipa/vizzes)
   - Microsoft Power BI
-    - [Data Professions Analysis](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#data-professions-analysis)
-    - [Hospital Patients Wait List Report]()
+    - [Data Professions Breakdown](https://github.com/PatienceAdzo/AdzoTheAnalyst#data-professions-breakdown)
+    - [Hospital Patients Wait List Report](https://github.com/PatienceAdzo/AdzoTheAnalyst#hospital-patients-wait-list-report)
     
 - [Topics in Data Science/Analytics](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-topic)
   
@@ -118,22 +118,46 @@ In this section I list the data analytics projects, briefly describing the techn
 
 **Dataset:** [`Nashville Housing Data.xlsx`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/NashvilleHousing.xlsx)
 
-**Goal:** To analyse the impact of the Covid-19 pandemic.
+**Goal:** To go through the data cleaning process before further analysis of the data.
 
-**Description:** The dataset, downloaded from 'Our World in Data' website contains records of the Coronavirus cases by country from 2020-2024. The dataset was split into deaths and vaccination records before being analyzed in the SQL server. This project includes loading the data into SQL, data cleaning and preprocessing, and EDA (Exploratory Data Analysis).
+**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
 
-**Skills:** Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
 
 **Technology stack:** Microsoft SQL Server Management Studio
 
 
 ## Data Professions Breakdown
 
+**File:** [`Data Professions Breakdown.pbix`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Data%20Professions%20Breakdown.pbix)
+
+**Dataset:** [`Data Survey.xlsx`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Data_Survey.xlsx)
+
+**Goal:** To analyse survey data collected from various data professionals.
+
+**Description:** The dataset contains the results from a survey conducted on various data professionals. This project includes the following steps: data loading, data cleaning and preprocessing and visualization. The analysis detailed the average wages of different professions, their happiness with work/life balance, their favourite programming language, amongst others.
+
+**Skills:** Data Collection, Data Transformation and Modelling, Visualization
+
+**Technology stack:** Power BI Desktop
+
 
 
 ## Hospital Patients Wait List Report
 
+**File:** [`Hospital Patients Wait List.pbix`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Hospital%20Patients%20Data%20Analysis.pbix)
 
+**Dataset I:** [`Inpatients Data.xlsx`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/In_Patients.xlsx)
+
+**Dataset II:** [`Outpatients Data.xlsx`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Out_Patients.xlsx)
+
+**Goal:** To showcase a granular analysis of the wait list of hospital patients.
+
+**Description:** The datasets contain information from 2018 to 2021 about outpatients and inpatients of a hospital including the related medical cases and age profiles. The two datasets were merged for further transformation. This project tracked the current status of patient waiting list, analysed historical monthly trend of waiting list in inpatient and outpatient categories. Some metrics used are the average and median waiting list and the current total waitlist.
+
+**Skills:** Data Collection, Data Transformation and Modelling, Data Merging, Data Analysis Expressions(DAX), Visualization
+
+**Technology stack:** Power BI Desktop
 
 
 

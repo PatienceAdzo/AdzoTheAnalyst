@@ -214,5 +214,5 @@ Bachelor of Science - BSc, Actuarial Science,
 2018 - 2022
 
 ## Contact
-- LinkedIn : [@patienceanipa]()
+- LinkedIn : [@patienceanipa](https://www.linkedin.com/in/anipa18/)
 - E-mail   : patienceanipa18@outlook.com

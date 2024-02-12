@@ -150,6 +150,8 @@ In this section I list the data analytics projects, briefly describing the techn
 
 **Dataset II:** [`Outpatients Data.xlsx`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Out_Patients.xlsx)
 
+**Dataset III:** [`Specialty Mapping.csv`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Mapping_Specialty.csv)
+
 **Goal:** To showcase a granular analysis of the wait list of hospital patients.
 
 **Description:** The datasets contain information from 2018 to 2021 about outpatients and inpatients of a hospital including the related medical cases and age profiles. The two datasets were merged for further transformation. This project tracked the current status of patient waiting list, analysed historical monthly trend of waiting list in inpatient and outpatient categories. Some metrics used are the average and median waiting list and the current total waitlist.

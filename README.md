@@ -34,7 +34,7 @@ The projects in this repository are a combination of personal projects I have do
     - [Data Professions Breakdown](https://github.com/PatienceAdzo/AdzoTheAnalyst#data-professions-breakdown)
     - [Hospital Patients Wait List Report](https://github.com/PatienceAdzo/AdzoTheAnalyst#hospital-patients-wait-list-report)
   - Excel
-    - [Social Media Content Creation Strategy - Accenture Job Simulation]()
+    - [Social Media Content Creation Strategy - Accenture Job Simulation](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#social-media-content-creation-strategyaccenture)
     
 - [Topics in Data Science/Analytics](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-topic)
   

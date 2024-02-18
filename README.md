@@ -33,6 +33,8 @@ The projects in this repository are a combination of personal projects I have do
   - Microsoft Power BI
     - [Data Professions Breakdown](https://github.com/PatienceAdzo/AdzoTheAnalyst#data-professions-breakdown)
     - [Hospital Patients Wait List Report](https://github.com/PatienceAdzo/AdzoTheAnalyst#hospital-patients-wait-list-report)
+  - Excel
+    - [Social Media Content Creation Strategy - Accenture Job Simulation]()
     
 - [Topics in Data Science/Analytics](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/README.md#portfolio-projects-by-topic)
   
@@ -161,7 +163,19 @@ In this section I list the data analytics projects, briefly describing the techn
 **Technology stack:** Power BI Desktop
 
 
+## Social Media Content Creation Strategy(Accenture)
 
+**Presentation:** [`Presentation on Findings.pptx`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Accenture%20Presentation.pptx)
+
+**Datasets:** [`Cleaned and Merged Datasets.xlsx`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Accenture_Cleaned%20and%20Merged%20Data.xlsx)
+
+**Goal:** To analyse content data for a social media client
+
+**Description:** This project, which is originally a job simulation by Accenture, focused on the application of data analytics and visualization skills to advice a social media client on their content creation strategy. Before beginning the analysis, the client's problem was first highlighted by reviewing the client's brief. Thereafter, the datasets needed to adress the client's issue were selected from a pool of datasets for the data modelling process. The datasets were then cleaned, merged and analysed to provide insights. The final stage of the process involved creating a PowePoint presentation and presenting the findings of the analysis.
+
+**Skills:** Data understanding, data cleaning, data modeling, visualization, connecting the business and data through storytelling, communication
+
+**Tools:** Excel, PowerPoint
 
 
 

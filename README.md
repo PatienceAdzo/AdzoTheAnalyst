@@ -1,4 +1,4 @@
-# Patience Anipa - Data Analyst Portfolio
+# Patience Anipa - Data Analytics Portfolio
 
 
 ## About Me

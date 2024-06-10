@@ -46,6 +46,7 @@ The projects in this repository are a combination of personal projects I have do
     - [Covariance Matrix Based Principal Component Analysis(PCA) of Decathletes](https://github.com/PatienceAdzo/AdzoTheAnalyst#covariance-matrix-based-principal-component-analysispca-of-decathletes)
     - [Correlation Matrix Based Principal Component Analysis(PCA) of Decathletes](https://github.com/PatienceAdzo/AdzoTheAnalyst#correlation-matrix-based-principal-component-analysispca-of-decathletes)
     - [Principal Component Analysis(PCA) of Simulated Data](https://github.com/PatienceAdzo/AdzoTheAnalyst#principal-component-analysispca-of-simulated-data)
+    - [PCA and K-Means Clustering]()
 
 - [Education](https://github.com/PatienceAdzo/AdzoTheAnalyst#education)
 - [Contact](https://github.com/PatienceAdzo/AdzoTheAnalyst#contact)
@@ -217,7 +218,7 @@ Principal Component Analysis (PCA) is a dimensionality reduction technique commo
 #### Principal Component Analysis(PCA) of Simulated Data
 **Code:** [`Principal Component Analysis(PCA).pdf`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-2-rmd_file.pdf)
 
-
+#### PCA and K-Means Clustering
 
 ## Education
 

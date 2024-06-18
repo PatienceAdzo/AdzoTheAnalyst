@@ -46,7 +46,7 @@ The projects in this repository are a combination of personal projects I have do
     - [Covariance Matrix Based Principal Component Analysis(PCA) of Decathletes](https://github.com/PatienceAdzo/AdzoTheAnalyst#covariance-matrix-based-principal-component-analysispca-of-decathletes)
     - [Correlation Matrix Based Principal Component Analysis(PCA) of Decathletes](https://github.com/PatienceAdzo/AdzoTheAnalyst#correlation-matrix-based-principal-component-analysispca-of-decathletes)
     - [Principal Component Analysis(PCA) of Simulated Data](https://github.com/PatienceAdzo/AdzoTheAnalyst#principal-component-analysispca-of-simulated-data)
-    - [PCA and K-Means Clustering]()
+    - [PCA and K-Means Clustering](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Country%20Profiling%20Using%20PCA%20and%20K-Means%20Clustering.pdf)
 
 - [Education](https://github.com/PatienceAdzo/AdzoTheAnalyst#education)
 - [Contact](https://github.com/PatienceAdzo/AdzoTheAnalyst#contact)

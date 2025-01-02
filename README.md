@@ -219,6 +219,16 @@ Principal Component Analysis (PCA) is a dimensionality reduction technique commo
 **Code:** [`Principal Component Analysis(PCA).pdf`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/PCA-2-rmd_file.pdf)
 
 #### PCA and K-Means Clustering
+**Project:** [`Principal Component Analysis(PCA) and K-Means Clustering.pdf`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Country%20Profiling%20Using%20PCA%20and%20K-Means%20Clustering.pdf)
+
+
+## Operations Research
+
+#### Nonlinear Programming and Dynamic Optimization
+**Project:** [`Optimal Flight with a Glider.pdf`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Country%20Profiling%20Using%20PCA%20and%20K-Means%20Clustering.pdf)
+
+
+
 
 ## Education
 

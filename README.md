@@ -225,7 +225,7 @@ Principal Component Analysis (PCA) is a dimensionality reduction technique commo
 ## Operations Research
 
 #### Nonlinear Programming and Dynamic Optimization
-**Project:** [`Optimal Flight with a Glider.pdf`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Country%20Profiling%20Using%20PCA%20and%20K-Means%20Clustering.pdf)
+**Project:** [`Optimal Flight with a Glider.pdf`](https://github.com/PatienceAdzo/AdzoTheAnalyst/blob/main/Optimal_Flight_with_a_Glider.pdf)
 
 
 
